@@ -2,12 +2,12 @@
   "name": "monokai-ide-syntax",
   "theme": "syntax",
   "version": "0.0.0",
-  "description": "A short description of your syntax theme",
+  "description": "Adaptation of the textmate monokai theme",
   "keywords": [
     "syntax",
     "theme"
   ],
-  "repository": "https://github.com/atom/monokai-ide-syntax",
+  "repository": "https://github.com/Progdrasil/monokai-ide-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
